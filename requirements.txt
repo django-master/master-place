@@ -1,1 +1,2 @@
 django-master
+django-master-linter
